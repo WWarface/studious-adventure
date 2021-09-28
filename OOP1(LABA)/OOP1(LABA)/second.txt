@@ -1,0 +1,8 @@
+ name: dsa Surname: asd Kurs:  sad Group:  33
+  3  3  2  2
+ Середнє значення: 2
+
+ name: asd Surname: sad Kurs:  sad Group:  2
+  3  3  2  2
+ Середнє значення: 2
+
